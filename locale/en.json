@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "QSO eye-comfort style",
+    "description": "Injects a Host-side stylesheet into the DeepSeek Harness Web surface: removes animated running mascot flicker, applies a cool slate light theme and softened dark theme, enlarges session header titles, and styles terminals with the Ghostty 0x96f palette. Disable the bundle to restore default DSH styling."
+  }
+}

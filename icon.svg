@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" fill="none">
+  <defs>
+    <linearGradient id="qso_style_light" x1="7" y1="8" x2="18" y2="28" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E8EFFA"/>
+      <stop offset="1" stop-color="#C9D8EE"/>
+    </linearGradient>
+    <linearGradient id="qso_style_dark" x1="18" y1="8" x2="29" y2="28" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#323A4A"/>
+      <stop offset="1" stop-color="#1E232D"/>
+    </linearGradient>
+  </defs>
+  <path d="M18 7H11.5C9.01 7 7 9.01 7 11.5V24.5C7 26.99 9.01 29 11.5 29H18V7Z" fill="url(#qso_style_light)"/>
+  <path d="M18 7H24.5C26.99 7 29 9.01 29 11.5V24.5C29 26.99 26.99 29 24.5 29H18V7Z" fill="url(#qso_style_dark)"/>
+  <rect x="7" y="7" width="22" height="22" rx="4.5" stroke="#536887" stroke-width="1.6"/>
+  <line x1="18" y1="7.8" x2="18" y2="28.2" stroke="#536887" stroke-width="1.4"/>
+  <circle cx="12.5" cy="14" r="2.2" fill="#4B6AB8"/>
+  <path d="M10.5 21.5H14.5" stroke="#5E769C" stroke-width="1.8" stroke-linecap="round"/>
+  <circle cx="23.5" cy="14" r="2.2" fill="#E3B36C"/>
+  <path d="M21.5 21.5H25.5" stroke="#A7B5C9" stroke-width="1.8" stroke-linecap="round"/>
+</svg>

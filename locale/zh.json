@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "QSO 护眼主题样式",
+    "description": "通过 Host 侧样式注入优化 DeepSeek Harness 界面：去除运行指示器动效闪烁、提供冷灰蓝浅色与柔和石板灰深色护眼配色、放大顶部会话标题、并将终端统一为 Ghostty 0x96f 配色。停用此插件即可恢复 DSH 默认样式。"
+  }
+}
